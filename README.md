@@ -18,4 +18,4 @@
 
 ## Versioning
 
-![alt text](image.jpg)
+![alt text](tiny.jpg)
