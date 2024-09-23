@@ -1,4 +1,4 @@
-# ==**Table of Content**==
+# **Table of Content**
 
 - [PROJECT TITLE](#Project-Title)
 - [DESCRIPTION](#Description)
@@ -14,7 +14,7 @@
 
 ## How to run program
 
-## Additional Information
+## ==Additional Information==
 
 ## Versioning
 
