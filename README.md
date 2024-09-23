@@ -7,7 +7,7 @@
 - [VERSIONING](#versioning)
 
 ## Project Title
-*Hello World*
+*Hello World* :joy:
 
 ## Description
 *First repository practice*
