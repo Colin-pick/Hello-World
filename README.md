@@ -1,4 +1,4 @@
-# Table of Content
+# **Table of Content**
 
 - [PROJECT TITLE](#Project-Title)
 - [DESCRIPTION](#Description)
