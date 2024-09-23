@@ -6,7 +6,7 @@
 - [ADDITIONAL INFORMATION](#additional-information)
 - [VERSIONING](#versioning)
 
-## Project Title
+> ## Project Title
 *Hello World* :joy:
 
 ## Description
@@ -14,7 +14,7 @@
 
 ## How to run program
 
-## ==Additional Information==
+## Additional Information
 
 ## Versioning
 
